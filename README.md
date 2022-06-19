@@ -4,3 +4,7 @@ GUI+Credit Card Generator for testing purposes. THIS SHOULD NOT BE USED FOR FRAU
 Btw this is a quick script I coded in like 5 minutes so don't complain
 
 In the near furute I'll make it so that you don't have to download my credit card gen off mega. I couldn't be asked to do it rn :)
+
+#Using it
+Pretty ez ngl :)
+Open the file and the GUI will automatically open then all u gotta do is click generate and wait for the mega to pop up in the terminal. The reason why the mega pops up in the terminal and isn't directly presented to you is since MEGA usually removes these tools even though they can be used for testing purposes since these tools can connot fraud. So I have made a bot which automatically uploads the file to MEGA and edits the code here and re-uploads it with the new file so that's why it's more efficient to do it this way :). Also I used the GUI to show that I know how to code :)
