@@ -9,3 +9,6 @@ Edit: Now we don't have to use the MEGA :) It's even more self-explanatory since
 
 # Some explanation to as to how it works
 So basically the GUI is really easy and all it uses is tkinter. The credit card gen is also quite easy and it makes use of random module and I use BIN(Bank Identification Lists) and the Luhn's algorithm(ggl it if u dont know what it is) to generate a valid cc that would theoretically work in checkout systems.
+
+# Important notes
+Keep all the python files in the same directory or it won't work.
