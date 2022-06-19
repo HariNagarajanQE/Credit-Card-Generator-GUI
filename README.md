@@ -3,8 +3,6 @@ GUI+Credit Card Generator for testing purposes. THIS SHOULD NOT BE USED FOR FRAU
 
 Btw this is a quick script I coded in like 5 minutes so don't complain
 
-In the near furute I'll make it so that you don't have to download my credit card gen off mega. I couldn't be asked to do it rn :)
-
 # Using it
 Pretty ez ngl :)
 Edit: Now we don't have to use the MEGA :) It's even more self-explanatory since I made it so it imports the file into the python programme so you don't have to worry about anything to be honest. Now all you gotta do it download the zip file unzip it and run the programme which is 'GUI'. Don't worry about the rest.
