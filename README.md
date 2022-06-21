@@ -12,3 +12,6 @@ So basically the GUI is really easy and all it uses is tkinter. The credit card 
 
 # Important notes
 Keep all the python files in the same directory or it won't work.
+
+# New changes
+I had to change the script so the cvv, the billing adress, cardholder name and expiry can't be genned anymore sorry. It turns out the source I was using for some of the information had some suspicion of being used for fraud
